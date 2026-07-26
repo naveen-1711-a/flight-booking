@@ -7,26 +7,32 @@ The Flight Booking Management System is a DBMS-based application developed to ma
 The system uses a structured relational database to store and manage flight and passenger records while maintaining relationships between flights, customers, bookings, and payments. It demonstrates core database concepts such as relational schema design, primary and foreign keys, constraints, normalization, SQL queries, joins, and transaction management.
 
 🚀 Key Features
+
 ✈️ Flight Management
+
 Add and manage flight details
 Store flight number, source, destination, date, and time
 Maintain available seat information
 Search and retrieve flight details
 👤 Passenger Management
+
 Store passenger details
 Maintain passenger contact information
 Manage passenger records efficiently
 🎫 Booking Management
+
 Create new flight bookings
 Associate passengers with flights
 Maintain booking date and booking status
 Retrieve booking details using SQL queries
 Update and cancel bookings
 💳 Payment Management
+
 Store payment information related to bookings
 Maintain payment status
 Retrieve payment and booking information using relational queries
 🗄️ Database Design
+
 
 The system is designed using a relational database model with separate tables for major entities such as:
 
